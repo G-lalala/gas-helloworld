@@ -16,3 +16,7 @@ user:G-lalala ここにプロジェクト名を記載します。 in:readme
 
 # GitHub連携方法について
 github連携方法
+https://kikaionchi.com/blog/2022/02/24/gas-github-push/
+
+[GitHub assistant] undefined
+https://qiita.com/ryotab22/items/677ab0cd1611062b8ae8
